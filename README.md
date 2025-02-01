@@ -103,9 +103,6 @@ https://drive.google.com/file/d/1uKA_g-oB2p9fVOYE9gXocvO-zVX0NDAO/view?usp=shari
 - Fazer um semaforo que indique um tempo mais adequado para os acionamento de cada led.
 - implementar condições mais complexas para que se encaixe mais na realidade..
   
- ## 🔗 Link do Vídeo de Funcionamento:
- 
- - [Acessar video]()
 
  ## Contribuições 🤝
 
